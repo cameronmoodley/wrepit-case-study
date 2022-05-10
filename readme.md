@@ -28,9 +28,11 @@ _The site architecture is as follows:_
 
 ### Home Page
 
-Please create a typeahead, that searches through the records, below is an example of a typeahead that searches through states in America.
+- Please create a typeahead, that searches through the records, below is an example of a typeahead that searches through states in America.
 
 <img src="./readmeImages/typeahead.gif" width="300">
+
+- Please display all records from the endpoint as per the design.
 
 ## Submission
 
