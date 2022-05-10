@@ -52,4 +52,4 @@ You should provide contributor access to the repo to the following git accounts:
 - We do not expect you to spend more than 3.5 hours on the case in total - we respect your time
 - You can use pseudo code, to describe what you would have done given enough time, if time runs out.
 - Please send us the code, a link to the repository or similar at least 24 hours before the interview for us to look through
-- If you have any questions or concern, please let us know: eirik@wrepit.no or cameron@wrepit.no
+- If you have any questions or concerns, please let us know: eirik@wrepit.no or cameron@wrepit.no
