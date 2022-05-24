@@ -29,6 +29,7 @@ _The site architecture is as follows:_
 ### Home Page
 
 - Please create a typeahead, that searches through the records, below is an example of a typeahead that searches through states in America.
+- The typeahead should filter by name key.
 
 <img src="./readmeImages/typeahead.gif" width="300">
 
@@ -45,11 +46,12 @@ You should provide contributor access to the repo to the following git accounts:
 
 1. cameronmoodley
 2. eirikeis
+3. aorsten
 
 ## Misc
 
 - You may take any and all reasonable assumptions as necessary, but any assumption you take should be explained.
-- We do not expect you to spend more than 3.5 hours on the case in total - we respect your time
-- You can use pseudo code, to describe what you would have done given enough time, if time runs out.
+- We do not expect you to spend more than 4 hours on the case in total - we respect your time.
+- If you run out of time you may you can use pseudo code, to describe what you would have done.
 - Please send us the code, a link to the repository or similar at least 24 hours before the interview for us to look through
-- If you have any questions or concerns, please let us know: eirik@wrepit.no or cameron@wrepit.no
+- If you have any questions or concerns, please let us know: eirik@wrepit.no, cameron@wrepit.no or andreas@wrepit.no
